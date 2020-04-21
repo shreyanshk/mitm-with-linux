@@ -1,0 +1,4 @@
+network={
+	ssid="VITWIFI"
+	psk="<redacted password>"
+}
